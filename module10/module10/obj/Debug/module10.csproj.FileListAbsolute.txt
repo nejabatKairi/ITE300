@@ -1,0 +1,8 @@
+C:\Users\NXTBox\source\repos\module10\module10\bin\Debug\module10.exe.config
+C:\Users\NXTBox\source\repos\module10\module10\bin\Debug\module10.exe
+C:\Users\NXTBox\source\repos\module10\module10\bin\Debug\module10.pdb
+C:\Users\NXTBox\source\repos\module10\module10\obj\Debug\module10.csproj.AssemblyReference.cache
+C:\Users\NXTBox\source\repos\module10\module10\obj\Debug\module10.csproj.SuggestedBindingRedirects.cache
+C:\Users\NXTBox\source\repos\module10\module10\obj\Debug\module10.csproj.CoreCompileInputs.cache
+C:\Users\NXTBox\source\repos\module10\module10\obj\Debug\module10.exe
+C:\Users\NXTBox\source\repos\module10\module10\obj\Debug\module10.pdb
