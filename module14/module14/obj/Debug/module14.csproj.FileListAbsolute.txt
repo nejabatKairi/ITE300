@@ -1,0 +1,8 @@
+C:\Users\NXTBox\source\repos\module14\module14\bin\Debug\module14.exe.config
+C:\Users\NXTBox\source\repos\module14\module14\bin\Debug\module14.exe
+C:\Users\NXTBox\source\repos\module14\module14\bin\Debug\module14.pdb
+C:\Users\NXTBox\source\repos\module14\module14\obj\Debug\module14.csproj.AssemblyReference.cache
+C:\Users\NXTBox\source\repos\module14\module14\obj\Debug\module14.csproj.SuggestedBindingRedirects.cache
+C:\Users\NXTBox\source\repos\module14\module14\obj\Debug\module14.csproj.CoreCompileInputs.cache
+C:\Users\NXTBox\source\repos\module14\module14\obj\Debug\module14.exe
+C:\Users\NXTBox\source\repos\module14\module14\obj\Debug\module14.pdb
